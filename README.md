@@ -1,4 +1,4 @@
-# Lab 18
+# Week 17 Mon Lab
 
 ## Directions
 
@@ -14,3 +14,4 @@ You are going to implement the graph data structure as discussed in lecture usin
     + Ensure all entries in the matrix are initialized to `false`
 - In the destructor, release the memory for `adjMatrix`
 - The parameters for `isEdge` and `toggleEdge` are vertex numbers and need to be checked for validity
+
