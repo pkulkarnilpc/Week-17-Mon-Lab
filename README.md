@@ -3,6 +3,9 @@
 ## Directions
 
 You are going to implement the graph data structure as discussed in lecture using the adjacency matrix strategy. This implementation relies on the `Graph` ADT. For the `GraphMatrix` class, there are 4 methods that you need to implement to complete the data structure. A driver program is already provided. Use this to test your data structure implementation.
+### Upload to canvas the adj matrix for the two graph images DirectedGraph and SampleGraph. ###
+![alt text](SampleGraph.jpg)
+![alt text](DirectedGraph.jpg)
 
 ## Notes
 
@@ -14,4 +17,5 @@ You are going to implement the graph data structure as discussed in lecture usin
     + Ensure all entries in the matrix are initialized to `false`
 - In the destructor, release the memory for `adjMatrix`
 - The parameters for `isEdge` and `toggleEdge` are vertex numbers and need to be checked for validity
+
 
